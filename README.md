@@ -11,6 +11,8 @@ A short shell script to install all the softwares and packages frequently requir
 * [OpenCV 3.2.0](http://opencv.org/)
 * [Google Chrome](https://www.google.com/chrome/)
 
+You can manually install Gazebo for ROS by going through the installation [guide](http://gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros). If you are using ROS-Kinetic, install Gazebo version:7.
+
 ## How to use?
 1. Clone the repository to your system: `git clone https://github.com/Mayankm96/setup-ubuntu.git`
 2. On the terminal, execute the command `cd /path/to/setup_clean.sh && chmod +x *.sh`
